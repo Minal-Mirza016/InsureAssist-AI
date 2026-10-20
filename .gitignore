@@ -6,10 +6,12 @@ __pycache__/
 .venv/
 venv/
 
-# Secrets
+# Secrets and environment variables
 .env
 .env.*
+!.env.example
 
-# Cache and logs
-.pytest_cache/
-*.log
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
