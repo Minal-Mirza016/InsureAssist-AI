@@ -1,0 +1,18 @@
+Test Accuracy: 0.5500
+
+                    precision    recall  f1-score   support
+
+   claim_documents       1.00      0.50      0.67         2
+     claim_process       0.00      0.00      0.00         2
+      claim_status       1.00      1.00      1.00         2
+          fallback       0.00      0.00      0.00         2
+          greeting       1.00      1.00      1.00         2
+   policy_coverage       0.00      0.00      0.00         2
+policy_eligibility       1.00      1.00      1.00         2
+ policy_exclusions       0.50      0.50      0.50         2
+    policy_renewal       0.33      0.50      0.40         2
+   premium_payment       0.67      1.00      0.80         2
+
+          accuracy                           0.55        20
+         macro avg       0.55      0.55      0.54        20
+      weighted avg       0.55      0.55      0.54        20

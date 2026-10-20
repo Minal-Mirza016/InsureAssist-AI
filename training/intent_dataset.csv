@@ -1,0 +1,101 @@
+text,intent
+"Hello",greeting
+"Hi there",greeting
+"Good morning",greeting
+"Hey, can you help me",greeting
+"Hello insurance assistant",greeting
+"Good evening",greeting
+"Hi, I have a question",greeting
+"Are you available to help",greeting
+"How are you",greeting
+"Hey there",greeting
+"What does my insurance policy cover",policy_coverage
+"Which medical expenses are covered",policy_coverage
+"Does the policy cover hospital visits",policy_coverage
+"What benefits are included in this plan",policy_coverage
+"Tell me about the coverage limits",policy_coverage
+"Is an ambulance covered by the policy",policy_coverage
+"What services can I claim under my policy",policy_coverage
+"Does my plan cover diagnostic tests",policy_coverage
+"What protection does this insurance provide",policy_coverage
+"Explain the benefits of this insurance",policy_coverage
+"How do I file an insurance claim",claim_process
+"What are the steps to submit a claim",claim_process
+"Explain the claim procedure",claim_process
+"Where should I submit my claim",claim_process
+"How can I start a new claim",claim_process
+"What happens after I submit a claim",claim_process
+"How does the reimbursement process work",claim_process
+"Can you guide me through filing a claim",claim_process
+"What should I do after an insured event",claim_process
+"How do I request claim reimbursement",claim_process
+"Which documents are needed for a claim",claim_documents
+"What paperwork must I submit with my claim",claim_documents
+"Do I need original medical bills",claim_documents
+"Which forms are required for reimbursement",claim_documents
+"What proof is needed to support a claim",claim_documents
+"Do I need to provide identity documents",claim_documents
+"What documents are required for a hospital claim",claim_documents
+"Is a doctor's report necessary",claim_documents
+"Can you list the required claim documents",claim_documents
+"What receipts should I attach to my claim",claim_documents
+"How can I pay my insurance premium",premium_payment
+"When is my premium payment due",premium_payment
+"What payment methods are accepted",premium_payment
+"How do I pay my monthly premium",premium_payment
+"Can I pay my premium online",premium_payment
+"What happens if I miss a premium payment",premium_payment
+"Where can I find payment instructions",premium_payment
+"How often must I pay the premium",premium_payment
+"Can I get a receipt for my premium",premium_payment
+"How do I check my premium amount",premium_payment
+"What exclusions apply to this policy",policy_exclusions
+"Which situations are not covered",policy_exclusions
+"Are pre-existing conditions excluded",policy_exclusions
+"What expenses will the insurer not pay",policy_exclusions
+"Tell me about the policy exclusions",policy_exclusions
+"Are there any limits to the coverage",policy_exclusions
+"What events are excluded from protection",policy_exclusions
+"Does the policy have waiting periods",policy_exclusions
+"Which treatments are excluded",policy_exclusions
+"What are the exceptions to the coverage",policy_exclusions
+"Who is eligible to buy this insurance",policy_eligibility
+"What are the eligibility requirements",policy_eligibility
+"Can a student apply for this policy",policy_eligibility
+"What is the minimum age for applicants",policy_eligibility
+"Who can be included in the plan",policy_eligibility
+"Are there any age restrictions",policy_eligibility
+"Can family members be covered",policy_eligibility
+"What conditions must I meet to qualify",policy_eligibility
+"Can a new customer apply for coverage",policy_eligibility
+"Who qualifies for this insurance plan",policy_eligibility
+"How can I check my claim status",claim_status
+"Has my claim been processed",claim_status
+"Is there an update on my reimbursement",claim_status
+"How do I track a submitted claim",claim_status
+"Why is my claim still pending",claim_status
+"How long does claim processing take",claim_status
+"Has the insurer approved my claim",claim_status
+"Where can I see my claim progress",claim_status
+"Can I find out whether my claim was rejected",claim_status
+"What is happening with my submitted claim",claim_status
+"How do I renew my insurance policy",policy_renewal
+"When should I renew my policy",policy_renewal
+"Can I extend my insurance coverage",policy_renewal
+"What is the policy renewal process",policy_renewal
+"How do I renew an expired policy",policy_renewal
+"Will I receive a renewal reminder",policy_renewal
+"Can I renew my plan online",policy_renewal
+"What happens when my policy expires",policy_renewal
+"Which documents are required for renewal",policy_renewal
+"How can I continue my insurance for another year",policy_renewal
+"Tell me a joke",fallback
+"What is the capital of France",fallback
+"Help me write a poem",fallback
+"Who won a football match yesterday",fallback
+"Recommend a movie for tonight",fallback
+"How do I cook rice",fallback
+"Explain how a car engine works",fallback
+"Can you help me learn Spanish",fallback
+"What is the weather like today",fallback
+"Write a birthday message for my friend",fallback
